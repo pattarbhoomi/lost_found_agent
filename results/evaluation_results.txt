@@ -1,0 +1,42 @@
+Thresholds: NOTIFY >= 0.75 (margin >= 0.15), ASK >= 0.45
+Each test set: 60 true pairs + 50 unmatched reports
+
+seed 2: agent top1=0.68 top3=0.85 | notify precision=1.00 auto-resolved=0.15 false-alarms=0.00
+seed 3: agent top1=0.68 top3=0.92 | notify precision=0.83 auto-resolved=0.25 false-alarms=0.04
+seed 4: agent top1=0.72 top3=0.90 | notify precision=0.88 auto-resolved=0.23 false-alarms=0.04
+seed 5: agent top1=0.70 top3=0.88 | notify precision=0.92 auto-resolved=0.18 false-alarms=0.04
+seed 6: agent top1=0.77 top3=0.90 | notify precision=0.94 auto-resolved=0.28 false-alarms=0.04
+
+==================================================================
+AVERAGE OVER 5 TEST SETS (mean +- std)
+==================================================================
+Method                                 Top-1     Top-3       MRR
+Baseline A: plain TF-IDF                0.25      0.40      0.37
+Baseline B: TF-IDF + synonyms           0.37      0.59      0.51
+Full agent (multi-clue score)           0.71      0.89      0.80
+
+Agent DECISIONS (total counts over all test sets)
+  True pair -> NOTIFY, right item                66
+  True pair -> NOTIFY, WRONG item                 3
+  True pair -> ASK a question                   230
+  True pair -> WAIT (missed)                      1
+  No partner exists -> NOTIFY (false alarm)       4
+  No partner exists -> ASK                      117
+  No partner exists -> WAIT (correct)             4
+
+NOTIFY precision (right item when it notifies): 0.91 +- 0.06
+Auto-resolved (true pairs notified correctly)   : 0.22 +- 0.05
+False-alarm rate (unmatched reports notified)   : 0.03 +- 0.02
+
+==================================================================
+INTERACTIVE TEST: agent may ask up to 4 questions, simulated owner answers
+==================================================================
+True pairs (300):
+  returned to the RIGHT owner (auto)   :  114  (38%)
+  notified the WRONG item              :    5  (2%)
+  still unresolved -> human review     :  181  (60%)
+Unmatched reports (125):
+  false alarms (wrongly notified)      :    7  (6%)
+  correctly left waiting / for review  :  118  (94%)
+Average questions asked per report     : 1.2
+Precision of NOTIFY after questions    : 0.90

@@ -1,0 +1,171 @@
+id,kind,pair_id,true_color,true_brand,true_place,true_mark,description,location,time,contact
+152,found,,black,,ground,a faded logo,Found a black id card .,somewhere behind the stairs,2026-11-13 03:29,user152@college.edu
+125,lost,,grey,,ground,a crack on one side,I lost a sunglasses (). It has a crack on one side.,sports ground,2026-11-02 04:06,user125@college.edu
+36,found,18,pink,,library,a small scratch,"tws set found, looks .",lib,2026-11-06 00:00,user36@college.edu
+166,found,,white,,canteen,a crack on one side,"Someone left a id card, white.",cafeteria,2026-11-10 16:35,user166@college.edu
+120,found,60,blue,asus,main_gate,a keychain attached,"Someone left a macbook, . It has a keychain attached.",main gate,2026-11-16 21:32,user120@college.edu
+45,lost,23,green,titan,hostel,a small scratch,I lost a leather wallet (). titan,hostel gate,2026-11-04 22:35,user45@college.edu
+98,found,49,pink,,canteen,,Found a pink key bunch .,canteen,2026-11-03 11:57,user98@college.edu
+52,found,26,blue,,hostel,a sticker on it,Picked up a blue sipper.,girls hostel,2026-11-10 09:38,user52@college.edu
+76,found,38,blue,,canteen,a name written on it,Picked up a blue lock openers. It has a name written on it.,cafeteria,2026-11-04 07:04,user76@college.edu
+89,lost,45,green,,bus_stop,a rubber band around it,I lost a flask (). It has a rubber band around it.,somewhere behind the stairs,2026-11-13 19:57,user89@college.edu
+5,lost,3,silver,,cs_block,initials RK on it,Lost my wristwatch.,mechanical block,2026-11-09 17:58,user5@college.edu
+43,lost,22,white,lenovo,mech_block,a sticker on it,Lost macbook. It has a sticker on it.,mech block,2026-11-11 07:49,user43@college.edu
+66,found,33,red,asus,hostel,a torn corner,Picked up a red asus laptop. It has a torn corner.,hostel,2026-11-12 19:17,user66@college.edu
+26,found,13,black,,hostel,initials RK on it,Picked up a black identity card.,hostel gate,2026-11-11 00:17,user26@college.edu
+80,found,40,pink,,hostel,a dent,Picked up a pink id card.,gate,2026-11-09 01:37,user80@college.edu
+73,lost,37,white,,ground,a small scratch,Lost sunglasses.,bus bay,2026-11-10 10:14,user73@college.edu
+124,found,,yellow,,hostel,a rubber band around it,"calci found, looks . It has a rubber band around it.",hostel,2026-11-02 11:29,user124@college.edu
+147,lost,,pink,,admin_office,a sticker on it,I lost a bunch of keys (pink).,reading room,2026-11-01 20:08,user147@college.edu
+42,found,21,black,,parking,a dent,"Someone left a campus pass, jet black.",somewhere behind the stairs,2026-11-05 19:26,user42@college.edu
+104,found,52,green,titan,admin_office,a sticker on it,"Someone left a leather wallet, . It has a sticker on it.",principal office,2026-11-11 20:10,user104@college.edu
+27,lost,14,green,,cs_block,a small scratch,I lost a lock openers (). It has a small scratch.,lab block,2026-11-11 23:17,user27@college.edu
+77,lost,39,brown,,main_gate,,I lost a headphones (brown).,mech block,2026-11-01 13:32,user77@college.edu
+117,lost,59,black,samsung,bus_stop,a name written on it,Lost my samsung phone charger. It has a name written on it.,bus stand,2026-11-11 10:23,user117@college.edu
+153,lost,,grey,,library,a rubber band around it,I lost a macbook (gray).,reading hall,2026-11-11 18:40,user153@college.edu
+20,found,10,blue,sony,parking,a keychain attached,Found a navy earphone box .,parking lot,2026-11-09 14:38,user20@college.edu
+33,lost,17,grey,nike,cs_block,,"Misplaced my steel jug, gray.",computer block,2026-11-03 19:06,user33@college.edu
+11,lost,6,yellow,noise,main_gate,,"Misplaced my timepiece, yellow.",security gate,2026-11-14 10:32,user11@college.edu
+13,lost,7,silver,,cs_block,a torn corner,Lost my silver spectacles. It has a torn corner.,cs department,2026-11-02 17:12,user13@college.edu
+22,found,11,red,fastrack,main_gate,a keychain attached,Found timepiece.,main gate,2026-11-03 17:58,user22@college.edu
+2,found,1,yellow,,auditorium,,"Someone left a glasses, .",main hall,2026-11-12 18:41,user2@college.edu
+48,found,24,blue,casio,admin_office,a name written on it,Picked up a calci.,office,2026-11-13 09:22,user48@college.edu
+30,found,15,pink,,library,,Found a pink sunglasses .,lab block,2026-11-06 13:37,user30@college.edu
+4,found,2,green,,bus_stop,a faded logo,Found glasses.,bus bay,2026-11-03 16:40,user4@college.edu
+60,found,30,black,cello,hostel,initials RK on it,Found a black bottle .,hostel,2026-11-09 18:17,user60@college.edu
+154,found,,silver,,canteen,a name written on it,"Someone left a keys, .",near the water cooler,2026-11-03 06:26,user154@college.edu
+61,lost,31,grey,cello,admin_office,a small scratch,Lost my gray water bottle.,hostel,2026-11-05 00:39,user61@college.edu
+71,lost,36,white,,canteen,a name written on it,Lost my id card.,reading hall,2026-11-04 13:16,user71@college.edu
+100,found,50,pink,fastrack,hostel,a name written on it,"wristwatch found, looks pink. It has a name written on it. fastrack",canteen,2026-11-14 21:23,user100@college.edu
+99,lost,50,pink,fastrack,hostel,a name written on it,Lost timepiece. It has a name written on it.,bus bay,2026-11-14 12:20,user99@college.edu
+7,lost,4,yellow,lenovo,mech_block,a rubber band around it,Lost my yellow lenovo macbook. It has a rubber band around it.,mechanical block,2026-11-02 23:37,user7@college.edu
+37,lost,19,silver,casio,cs_block,a rubber band around it,"calculator missing, silver casio.",computer block,2026-11-12 07:59,user37@college.edu
+31,lost,16,silver,noise,ground,,I lost a buds pouch (). noise,playground,2026-11-13 01:26,user31@college.edu
+92,found,46,pink,oneplus,cs_block,initials RK on it,"smartphone found, looks pink. oneplus",computer block,2026-11-04 11:36,user92@college.edu
+23,lost,12,pink,samsung,main_gate,,I lost a mobile (pink). samsung,reading hall,2026-11-01 22:07,user23@college.edu
+12,found,6,yellow,noise,main_gate,,"wristwatch found, looks . noise",security gate,2026-11-15 01:10,user12@college.edu
+159,lost,,silver,noise,library,a crack on one side,"earphones missing, . It has a crack on one side.",parking lot,2026-11-15 02:56,user159@college.edu
+24,found,12,pink,samsung,main_gate,,Found a pink phone .,main gate,2026-11-02 22:04,user24@college.edu
+59,lost,30,black,cello,hostel,initials RK on it,"Misplaced my bottle, jet black.",lab block,2026-11-07 07:49,user59@college.edu
+17,lost,9,yellow,,library,a dent,"college card missing, yellow .",library,2026-11-11 15:58,user17@college.edu
+82,found,41,blue,,admin_office,a torn corner,Picked up a navy college card.,somewhere behind the stairs,2026-11-05 21:40,user82@college.edu
+75,lost,38,blue,,canteen,a name written on it,"bunch of keys missing, dark blue .",canteen,2026-11-03 04:13,user75@college.edu
+54,found,27,black,sony,library,a small scratch,Found headphones. It has a small scratch.,library,2026-11-08 10:31,user54@college.edu
+114,found,57,yellow,,main_gate,a keychain attached,Found a yellow campus pass . It has a keychain attached.,main gate,2026-11-06 20:53,user114@college.edu
+160,found,,red,titan,main_gate,,"Someone left a timepiece, .",gate,2026-11-09 02:10,user160@college.edu
+87,lost,44,brown,fastrack,mech_block,a keychain attached,"leather wallet missing, brown . It has a keychain attached.",somewhere behind the stairs,2026-11-10 09:21,user87@college.edu
+10,found,5,pink,wildcraft,canteen,a dent,Picked up a pink wildcraft backpack.,food court,2026-11-05 12:27,user10@college.edu
+151,lost,,pink,boat,auditorium,a sticker on it,Lost adapter. It has a sticker on it.,seminar hall,2026-11-11 08:08,user151@college.edu
+150,found,,yellow,wildcraft,ground,,"leather wallet found, looks yellow.",bus stop,2026-11-09 17:13,user150@college.edu
+55,lost,28,red,dell,bus_stop,a small scratch,"laptop missing, red dell.",bus stop,2026-11-02 10:21,user55@college.edu
+78,found,39,brown,,main_gate,,"neckband found, looks tan.",main gate,2026-11-02 15:07,user78@college.edu
+170,found,,blue,apple,main_gate,,Found neckband.,security gate,2026-11-09 17:29,user170@college.edu
+137,lost,,pink,,canteen,a faded logo,I lost a bunch of keys (pink). It has a faded logo.,cafeteria,2026-11-11 04:49,user137@college.edu
+102,found,51,red,xiaomi,main_gate,,"usb cable found, looks . xiaomi",entrance,2026-11-08 14:03,user102@college.edu
+18,found,9,yellow,,library,a dent,Picked up a yellow college card. It has a dent.,near the water cooler,2026-11-12 21:52,user18@college.edu
+86,found,43,white,fastrack,bus_stop,,Found a cream wallet fastrack.,near the big tree,2026-11-11 22:28,user86@college.edu
+68,found,34,blue,,mech_block,a small scratch,"bottle found, looks dark blue. It has a small scratch.",workshop,2026-11-14 17:13,user68@college.edu
+139,lost,,red,realme,hostel,a sticker on it,I lost a adapter (maroon).,near the big tree,2026-11-04 07:06,user139@college.edu
+168,found,,brown,,auditorium,,"Someone left a wallet, tan.",auditorium,2026-11-08 01:52,user168@college.edu
+3,lost,2,green,,bus_stop,a faded logo,Lost my olive specs. It has a faded logo.,near the big tree,2026-11-02 12:54,user3@college.edu
+90,found,45,green,,bus_stop,a rubber band around it,Picked up a olive steel jug. It has a rubber band around it.,bus stand,2026-11-14 11:35,user90@college.edu
+136,found,,pink,,main_gate,a faded logo,Picked up a pink haversack. It has a faded logo.,cafeteria,2026-11-04 23:46,user136@college.edu
+143,lost,,silver,,library,a crack on one side,Lost my silver campus pass.,reading room,2026-11-08 10:46,user143@college.edu
+25,lost,13,black,,hostel,initials RK on it,"campus pass missing, jet black . It has initials RK on it.",security gate,2026-11-10 19:30,user25@college.edu
+131,lost,,red,,canteen,a faded logo,I lost a smartphone ().,playground,2026-11-14 11:18,user131@college.edu
+128,found,,white,,library,a name written on it,"Someone left a textbook, white.",library,2026-11-06 10:22,user128@college.edu
+146,found,,brown,,ground,a name written on it,Picked up a tan identity card.,cs block,2026-11-05 05:46,user146@college.edu
+58,found,29,red,,parking,,Found a maroon college card .,cs department,2026-11-10 07:37,user58@college.edu
+106,found,53,white,realme,ground,initials RK on it,"phone found, looks white. It has initials RK on it. realme",sports ground,2026-11-05 06:15,user106@college.edu
+50,found,25,black,xiaomi,admin_office,a name written on it,Picked up a xiaomi charger. It has a name written on it.,office,2026-11-11 09:34,user50@college.edu
+149,lost,,green,,canteen,a rubber band around it,Lost umbrella. It has a rubber band around it.,reading hall,2026-11-03 21:11,user149@college.edu
+15,lost,8,black,wildcraft,cs_block,,"sling bag missing, black .",cs block,2026-11-14 00:35,user15@college.edu
+44,found,22,white,lenovo,mech_block,a sticker on it,"Someone left a laptop, .",ground,2026-11-12 06:19,user44@college.edu
+1,lost,1,yellow,,auditorium,,"spectacles missing, .",cs department,2026-11-12 00:57,user1@college.edu
+113,lost,57,yellow,,main_gate,a keychain attached,Lost id card. It has a keychain attached.,gate,2026-11-06 17:40,user113@college.edu
+39,lost,20,red,sony,mech_block,a small scratch,"airpods missing, red sony.",cs department,2026-11-11 10:35,user39@college.edu
+163,lost,,brown,,parking,a faded logo,"laptop bag missing, brown .",cycle stand,2026-11-11 11:04,user163@college.edu
+169,lost,,green,asus,parking,a faded logo,I lost a macbook (olive). It has a faded logo.,sports ground,2026-11-10 14:04,user169@college.edu
+96,found,48,yellow,puma,auditorium,a dent,Picked up a yellow puma card holder. It has a dent.,auditorium,2026-11-15 20:10,user96@college.edu
+8,found,4,yellow,lenovo,mech_block,a rubber band around it,Picked up a lenovo laptop. It has a rubber band around it.,mechanical block,2026-11-03 16:18,user8@college.edu
+116,found,58,yellow,,library,initials RK on it,Found headphones. It has initials RK on it.,reading hall,2026-11-15 08:25,user116@college.edu
+21,lost,11,red,fastrack,main_gate,a keychain attached,Lost my red fastrack smartwatch.,near the water cooler,2026-11-03 13:38,user21@college.edu
+126,found,,red,boat,ground,,"Someone left a usb cable, .",ground,2026-11-05 03:57,user126@college.edu
+88,found,44,brown,fastrack,mech_block,a keychain attached,Picked up a fastrack purse. It has a keychain attached.,workshop,2026-11-10 16:39,user88@college.edu
+16,found,8,black,wildcraft,cs_block,,Picked up a jet black wildcraft sling bag.,near the big tree,2026-11-14 15:45,user16@college.edu
+41,lost,21,black,,parking,a dent,"Misplaced my college card, jet black. It has a dent.",parking,2026-11-04 20:43,user41@college.edu
+83,lost,42,pink,,library,,I lost a earbuds ().,library,2026-11-07 21:21,user83@college.edu
+167,lost,,brown,,mech_block,initials RK on it,Lost my keys. It has initials RK on it.,workshop,2026-11-09 07:23,user167@college.edu
+28,found,14,green,,cs_block,a small scratch,Picked up a key bunch.,computer block,2026-11-12 02:57,user28@college.edu
+35,lost,18,pink,,library,a small scratch,I lost a neckband (pink). It has a small scratch.,reading room,2026-11-05 02:23,user35@college.edu
+19,lost,10,blue,sony,parking,a keychain attached,"earphone box missing, blue sony. It has a keychain attached.",cycle stand,2026-11-09 06:26,user19@college.edu
+74,found,37,white,,ground,a small scratch,Picked up a cream spectacles.,sports ground,2026-11-12 16:01,user74@college.edu
+72,found,36,white,,canteen,a name written on it,Found a white student card . It has a name written on it.,mech block,2026-11-07 04:27,user72@college.edu
+79,lost,40,pink,,hostel,a dent,I lost a campus pass (). It has a dent.,hostel gate,2026-11-08 17:57,user79@college.edu
+127,lost,,pink,,main_gate,a torn corner,"umbrella missing, pink .",entrance,2026-11-07 23:32,user127@college.edu
+6,found,3,silver,,cs_block,initials RK on it,"Someone left a timepiece, silver.",somewhere behind the stairs,2026-11-09 21:52,user6@college.edu
+158,found,,brown,noise,ground,a crack on one side,Picked up a neckband.,sports ground,2026-11-12 13:07,user158@college.edu
+32,found,16,silver,noise,ground,,Found a buds pouch noise.,playground,2026-11-15 02:34,user32@college.edu
+57,lost,29,red,,parking,,I lost a college card (red).,bike stand,2026-11-09 14:04,user57@college.edu
+40,found,20,red,sony,mech_block,a small scratch,Picked up a maroon sony buds pouch.,bike stand,2026-11-12 05:04,user40@college.edu
+107,lost,54,grey,casio,main_gate,,I lost a calci (gray).,gate,2026-11-05 11:09,user107@college.edu
+110,found,55,white,realme,admin_office,a keychain attached,Found a cream cellphone realme.,admin office,2026-11-07 11:33,user110@college.edu
+123,lost,,red,,parking,a rubber band around it,Lost my red neckband. It has a rubber band around it.,parking,2026-11-14 13:02,user123@college.edu
+14,found,7,silver,,cs_block,a torn corner,"Someone left a eye frames, silver.",cricket ground,2026-11-03 13:25,user14@college.edu
+103,lost,52,green,titan,admin_office,a sticker on it,Lost my olive leather wallet. It has a sticker on it.,principal office,2026-11-11 06:58,user103@college.edu
+51,lost,26,blue,,hostel,a sticker on it,"Misplaced my flask, dark blue. It has a sticker on it.",hostel gate,2026-11-09 13:39,user51@college.edu
+56,found,28,red,dell,bus_stop,a small scratch,"Someone left a portable computer, red. It has a small scratch.",near the water cooler,2026-11-03 06:42,user56@college.edu
+148,found,,silver,,auditorium,initials RK on it,Found a silver student card . It has initials RK on it.,lab block,2026-11-07 18:15,user148@college.edu
+85,lost,43,white,fastrack,bus_stop,,I lost a card holder (cream). fastrack,bus stop,2026-11-10 20:30,user85@college.edu
+53,lost,27,black,sony,library,a small scratch,I lost a earpods (). It has a small scratch. sony,reading hall,2026-11-08 00:19,user53@college.edu
+46,found,23,green,titan,hostel,a small scratch,Picked up a olive titan purse.,boys hostel,2026-11-05 22:21,user46@college.edu
+121,lost,,grey,,canteen,a keychain attached,"eye frames missing, grey . It has a keychain attached.",cafeteria,2026-11-06 02:48,user121@college.edu
+49,lost,25,black,xiaomi,admin_office,a name written on it,"power brick missing, jet black . It has a name written on it.",admin office,2026-11-10 15:19,user49@college.edu
+9,lost,5,pink,wildcraft,canteen,a dent,Lost sling bag.,food court,2026-11-04 18:10,user9@college.edu
+67,lost,34,blue,,mech_block,a small scratch,Lost my blue steel jug. It has a small scratch.,security gate,2026-11-13 15:23,user67@college.edu
+155,lost,,black,dell,bus_stop,,Lost laptop.,bus stand,2026-11-08 18:00,user155@college.edu
+144,found,,black,realme,admin_office,,Found a cellphone realme.,office,2026-11-07 14:15,user144@college.edu
+81,lost,41,blue,,admin_office,a torn corner,Lost my dark blue id card.,office,2026-11-04 16:59,user81@college.edu
+64,found,32,blue,oneplus,cs_block,,"Someone left a tws set, blue.",it block,2026-11-08 22:18,user64@college.edu
+130,found,,red,fastrack,main_gate,a name written on it,"Someone left a wallet, maroon.",main gate,2026-11-05 22:15,user130@college.edu
+29,lost,15,pink,,library,,"specs missing, .",main hall,2026-11-06 01:28,user29@college.edu
+93,lost,47,yellow,,parking,a sticker on it,I lost a mobile (). It has a sticker on it.,near the water cooler,2026-11-13 19:08,user93@college.edu
+133,lost,,black,,mech_block,initials RK on it,I lost a diary (jet black).,playground,2026-11-13 00:37,user133@college.edu
+95,lost,48,yellow,puma,auditorium,a dent,Lost card holder. It has a dent.,administration,2026-11-15 03:16,user95@college.edu
+84,found,42,pink,,library,,"Someone left a neckband, .",reading hall,2026-11-08 02:24,user84@college.edu
+164,found,,black,,auditorium,,Picked up a black campus pass.,main hall,2026-11-01 19:21,user164@college.edu
+156,found,,brown,,library,,Found umbrella.,reading hall,2026-11-01 16:25,user156@college.edu
+157,lost,,brown,milton,ground,a rubber band around it,Lost my milton bottle. It has a rubber band around it.,football ground,2026-11-14 14:13,user157@college.edu
+111,lost,56,black,asus,ground,a torn corner,"macbook missing, black asus. It has a torn corner.",ground,2026-11-12 14:57,user111@college.edu
+108,found,54,grey,casio,main_gate,,"Someone left a calci, grey.",hostel,2026-11-05 20:04,user108@college.edu
+161,lost,,yellow,titan,main_gate,,Lost wristwatch.,gate,2026-11-11 02:43,user161@college.edu
+38,found,19,silver,casio,cs_block,a rubber band around it,"Someone left a calculator, silver.",it block,2026-11-13 19:28,user38@college.edu
+129,lost,,grey,casio,ground,a keychain attached,Lost my gray casio calculator. It has a keychain attached.,football ground,2026-11-01 13:27,user129@college.edu
+63,lost,32,blue,oneplus,cs_block,,I lost a earphones (navy).,lab block,2026-11-08 16:01,user63@college.edu
+70,found,35,pink,,library,,Found umbrella.,reading hall,2026-11-05 10:49,user70@college.edu
+141,lost,,yellow,,parking,a name written on it,Lost smartwatch. It has a name written on it.,bike stand,2026-11-06 04:48,user141@college.edu
+140,found,,red,jbl,admin_office,a sticker on it,Found earphone box. It has a sticker on it.,cs department,2026-11-05 22:15,user140@college.edu
+62,found,31,grey,cello,admin_office,a small scratch,"Someone left a sipper, gray.",admin office,2026-11-05 22:44,user62@college.edu
+109,lost,55,white,realme,admin_office,a keychain attached,"mobile missing, cream realme. It has a keychain attached.",administration,2026-11-06 17:10,user109@college.edu
+142,found,,pink,titan,cs_block,a small scratch,"Someone left a money pouch, pink.",it block,2026-11-05 11:12,user142@college.edu
+105,lost,53,white,realme,ground,initials RK on it,"cellphone missing, cream realme. It has initials RK on it.",football ground,2026-11-04 14:13,user105@college.edu
+115,lost,58,yellow,,library,initials RK on it,Lost my yellow earbuds case.,library,2026-11-15 07:19,user115@college.edu
+94,found,47,yellow,,parking,a sticker on it,Picked up a smartphone. It has a sticker on it.,parking lot,2026-11-14 17:37,user94@college.edu
+91,lost,46,pink,oneplus,cs_block,initials RK on it,Lost smartphone. It has initials RK on it.,computer block,2026-11-04 03:29,user91@college.edu
+162,found,,blue,,parking,,Picked up a lock openers.,office,2026-11-14 19:14,user162@college.edu
+97,lost,49,pink,,canteen,,Lost my pink keys.,mess,2026-11-02 14:30,user97@college.edu
+165,lost,,pink,,ground,,Lost glasses.,football ground,2026-11-07 19:26,user165@college.edu
+69,lost,35,pink,,library,,I lost a umbrella (pink).,reading hall,2026-11-04 07:23,user69@college.edu
+118,found,59,black,samsung,bus_stop,a name written on it,"Someone left a power brick, jet black.",bus stand,2026-11-12 00:57,user118@college.edu
+101,lost,51,red,xiaomi,main_gate,,Lost my phone charger.,gate,2026-11-08 05:12,user101@college.edu
+119,lost,60,blue,asus,main_gate,a keychain attached,Lost my dark blue asus laptop.,entrance,2026-11-15 06:37,user119@college.edu
+138,found,,green,,auditorium,,Found a olive calculator .,auditorium,2026-11-11 17:49,user138@college.edu
+47,lost,24,blue,casio,admin_office,a name written on it,Lost my blue casio calculator.,office,2026-11-12 23:10,user47@college.edu
+145,lost,,yellow,,ground,initials RK on it,Lost my yellow keys.,playground,2026-11-04 18:57,user145@college.edu
+65,lost,33,red,asus,hostel,a torn corner,"Misplaced my macbook, maroon. It has a torn corner.",boys hostel,2026-11-12 13:32,user65@college.edu
+122,found,,black,nike,mech_block,a dent,Found backpack.,workshop,2026-11-01 23:33,user122@college.edu
+135,lost,,black,,cs_block,,"Misplaced my id card, jet black.",computer block,2026-11-03 11:01,user135@college.edu
+134,found,,blue,noise,main_gate,,Picked up a dark blue buds pouch.,main gate,2026-11-09 17:15,user134@college.edu
+112,found,56,black,asus,ground,a torn corner,"Someone left a laptop, black. It has a torn corner.",ground,2026-11-13 16:52,user112@college.edu
+132,found,,pink,,hostel,,"umbrella found, looks pink.",girls hostel,2026-11-02 17:32,user132@college.edu
+34,found,17,grey,nike,cs_block,,Found a bottle .,near the water cooler,2026-11-04 21:37,user34@college.edu
