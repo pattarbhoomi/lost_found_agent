@@ -171,7 +171,7 @@ def show_response(resp):
         st.dataframe(pd.DataFrame(rows), width="stretch", hide_index=True)
 
 
-tab_report, tab_open, tab_match, tab_notes, tab_eval = st.tabs(
+tab_report, tab_open, tab_match, tab_notes = st.tabs(
     ["Report an item", " Open reports", "Matches (security desk)", " Notifications"])
 
 with tab_report:
