@@ -156,8 +156,6 @@ def get_agent():
 
 agent = get_agent()
 st.title("🔎 Campus Lost & Found Agent")
-st.caption("Goal-based + utility-based agent · Perceive → Think → Decide → Act · "
-           "a human at the security desk confirms every hand-over")
 
 
 def show_response(resp):
@@ -174,7 +172,7 @@ def show_response(resp):
 
 
 tab_report, tab_open, tab_match, tab_notes, tab_eval = st.tabs(
-    ["📝 Report an item", "📋 Open reports", "🤝 Matches (security desk)", "🔔 Notifications", "📊 Evaluation"])
+    ["Report an item", " Open reports", "Matches (security desk)", " Notifications"])
 
 with tab_report:
     with st.form("report_form", clear_on_submit=True):
@@ -242,10 +240,4 @@ with tab_notes:
     else:
         st.write("Nothing sent yet.")
 
-with tab_eval:
-    st.subheader("Agent evaluation on held-out synthetic test sets")
-    try:
-        with open("results/evaluation_results.txt") as f:
-            st.code(f.read())
-    except FileNotFoundError:
-        st.write("Run `python evaluate.py > results/evaluation_results.txt` first.")
+
